@@ -18,7 +18,7 @@ A responsive, accessible personal portfolio built with semantic HTML5, CSS3, Boo
 3. An internet connection is needed to load Bootstrap and Google Fonts from their CDNs.
 
 ## Before submission
-- Replace the placeholder email `yamini.chittygori@example.com` with your real portfolio email.
+- Replace the placeholder email `yaminichittygori444@gmail.com` with your real portfolio email.
 - Check each project description and add the exact repository/demo URL where available. Some project links are intentionally placeholders until verified.
 - Add a profile photo or resume link if your instructor expects one.
 - Capture screenshots at desktop and mobile widths for the report.
